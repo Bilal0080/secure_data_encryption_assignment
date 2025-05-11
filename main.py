@@ -1,3 +1,7 @@
+streamlit
+cryptography
+
+
 import streamlit as st
 from cryptography.fernet import Fernet, InvalidToken
 import base64
